@@ -2,3 +2,6 @@
 	path = DeconDTN-toolkit
 	url = https://github.com/LinguisticAnomalies/DeconDTN-toolkit.git
 	branch = tmp
+[submodule "notebooks_yongsen/DeconDTN_Reading"]
+	path = notebooks_yongsen/DeconDTN_Reading
+	url = https://github.com/YongsenTan/DeconDTN_Reading.git
