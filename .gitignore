@@ -6,9 +6,4 @@ tmp*
 data
 runs_xiruo/.ipynb_checkpoints
 
-<<<<<<< Updated upstream
-=======
-runs_yongsen/DeconT/confounding_shift/algorithms/statistical/__pycache__
-runs_yongsen/DeconT/preprocessing/__pycache__
-runs_yongsen/DeconT/__pycache__
->>>>>>> Stashed changes
+runs_yongsen/__pycache__
